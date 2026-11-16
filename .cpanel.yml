@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/faazcvhi/causq.com/
+    - export DEPLOYPATH=/home/tufadsas/causq.com/
     - /bin/mkdir -p $DEPLOYPATH
     # HTML pages
     - /bin/cp -f index.html $DEPLOYPATH
